@@ -1,0 +1,20 @@
+Sales Executive:
+Hello! Am I speaking with Rahul?
+
+Customer:
+Yes.
+
+Sales Executive:
+I'm calling from Vedantu regarding our JEE preparation course.
+
+Customer:
+I am interested, but the course fee is quite high.
+
+Sales Executive:
+We also provide EMI options.
+
+Customer:
+That sounds good. I'll discuss it with my parents and let you know.
+
+Sales Executive:
+Sure. I'll follow up in two days.
